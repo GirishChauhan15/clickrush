@@ -282,9 +282,9 @@ function Play() {
             </p>
 
             <h1 className="m-0 text-[clamp(42px,9vw,68px)] font-extrabold leading-[0.95] tracking-[-0.07em] text-[#171719]">
-              COLOR
+              Click
               <span className="block bg-linear-to-r from-[#5961e9] via-[#8c6cf3] to-[#e05f9b] bg-clip-text text-transparent">
-                CLASH
+                Rush
               </span>
             </h1>
 
