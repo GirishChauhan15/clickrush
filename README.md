@@ -394,7 +394,7 @@ Then open the frontend URL shown by Vite in the terminal.
 Live Demo:
 
 ```text
-  https://github.com/GirishChauhan15/clickrush
+  https://clickrush-frontend.vercel.app/
 ```
 
 Demo Video:
